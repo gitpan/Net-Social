@@ -10,7 +10,7 @@ WriteMakefile
                          },
           'INSTALLDIRS' => 'site',
           'EXE_FILES' => [
-                           '/usr/home/simon/projects/perl/Net-Social/bin/dumpfriends'
+                           'bin/dumpfriends'
                          ],
           'PL_FILES' => {}
         )
