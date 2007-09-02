@@ -17,7 +17,7 @@ use constant MUTUAL      => 0x3; # not strictly needed but convenient
 
 @EXPORT_OK   = qw(NONE FRIENDED FRIENDED_BY MUTUAL);
 %EXPORT_TAGS = ( all => [@EXPORT_OK] ); 
-$VERSION     = 0.2;
+$VERSION     = 0.3;
 
 
 =head1 NAME

@@ -1,5 +1,6 @@
 bin/dumpfriends
 Build.PL
+Changes
 lib/Net/Social.pm
 lib/Net/Social/Service.pm
 MANIFEST			This list of files

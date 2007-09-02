@@ -1,6 +1,6 @@
 ---
 name: Net-Social
-version: 0.2
+version: 0.3
 author:
   - 'Simon Wistow <simon@thegestalt.org>'
 abstract: abstracted interface for social networks
@@ -11,7 +11,7 @@ requires:
 provides:
   Net::Social:
     file: lib/Net/Social.pm
-    version: 0.2
+    version: 0.3
   Net::Social::Service:
     file: lib/Net/Social/Service.pm
 generated_by: Module::Build version 0.2808
